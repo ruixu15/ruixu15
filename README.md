@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  <a href="mailto:522026710056@smail.nju.edu.cn">522026710056@smail.nju.edu.cn</a>
+  <a href="mailto:522026710056@smail.nju.edu.cn">rui.xu@smail.nju.edu.cn</a>
 </p>
 
 </div>
